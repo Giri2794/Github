@@ -19,6 +19,7 @@ public class RestAPITest {
 		System.out.println("Post Jira 7");
 		System.out.println("Post Jira 8");
 		System.out.println("Post Jira 9");
+		System.out.println("Post Jira 10");
 	}
 	
 	@Test

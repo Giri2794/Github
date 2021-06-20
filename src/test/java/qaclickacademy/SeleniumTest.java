@@ -12,6 +12,7 @@ public class SeleniumTest {
 		System.out.println("Git Updates");
 		System.out.println("Web Automation");
 		System.out.println("US User updates");
+		System.out.println("More Updates");
 	}
 	
 	@Test
