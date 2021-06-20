@@ -9,6 +9,7 @@ public class AppiumTest {
 	{
 		System.out.println("NativeAppAndroid");
 		System.out.println("LocalApp Update");
+		System.out.println("Final Update from Indian User");
 	}
 	@Test
 	public void IosApps()

@@ -13,6 +13,8 @@ public class SeleniumTest {
 		System.out.println("Web Automation");
 		System.out.println("US User updates");
 		System.out.println("More Updates");
+		System.out.println("Final Updates from Indian User");
+		System.out.println("Final Updates from Indian User");
 	}
 	
 	@Test
