@@ -30,4 +30,11 @@ public class SeleniumTest {
 		System.out.println("ElementsUI");
 		System.out.println("Create Branch");
 	}
+	
+	@Test
+	public void CreatedSeleniumBranchss()
+	{
+		System.out.println("ElementsUI");
+		System.out.println("Create Branch");
+	}
 }
