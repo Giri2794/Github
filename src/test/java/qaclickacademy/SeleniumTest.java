@@ -21,5 +21,13 @@ public class SeleniumTest {
 	public void ElementsUI()
 	{
 		System.out.println("ElementsUI");
+		System.out.println("Create Branch");
+	}
+	
+	@Test
+	public void CreatedSeleniumBranch()
+	{
+		System.out.println("ElementsUI");
+		System.out.println("Create Branch");
 	}
 }

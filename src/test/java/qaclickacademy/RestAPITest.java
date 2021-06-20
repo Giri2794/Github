@@ -28,6 +28,14 @@ public class RestAPITest {
 	public void deleteTwitter()
 	{
 		System.out.println("deleteTwitter");
+		System.out.println("Create Branch");
+	}
+	
+	@Test
+	public void RestBranch()
+	{
+		System.out.println("deleteTwitter");
+		System.out.println("Create Branch");
 	}
 
 }
